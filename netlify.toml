@@ -1,4 +1,4 @@
 [build]
   base = "web/"
   command = "yarn build && yarn export"
-  publish = "web/out"
+  publish = "out"
